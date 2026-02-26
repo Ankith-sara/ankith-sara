@@ -58,4 +58,4 @@ Deep learning model that distinguishes real images from AI-generated ones.
 
 ## Let's Connect
 
-[LinkedIn](https://linkedin.com) · [Email](mailto:your@email.com) · [Portfolio](https://yourportfolio.com)
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/ankith-kumar-sara-958ab026a)) · [Email](mailto:ankithkumarsara@gmail.com) · [Portfolio](https://ankithsara.vercel.app/)
