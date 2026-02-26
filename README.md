@@ -50,8 +50,8 @@ Deep learning model that distinguishes real images from AI-generated ones.
 ## GitHub Stats
 
 <p align="center">
-  <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankith-sara&show_icons=true&theme=radical)&show_icons=true&theme=radical&hide_border=true" />
-  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankith-sara&layout=compact)&layout=compact&theme=radical&hide_border=true" />
+  <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankith-sara&show_icons=true&theme=radical)" />
+  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankith-sara&layout=compact)" />
 </p>
 
 ---
