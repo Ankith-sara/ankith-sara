@@ -47,15 +47,6 @@ Deep learning model that distinguishes real images from AI-generated ones.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankith-sara&show_icons=true&theme=radical)" />
-  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankith-sara&layout=compact)" />
-</p>
-
----
-
 ## Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/ankith-kumar-sara-958ab026a) · [Email](mailto:ankithkumarsara@gmail.com) · [Portfolio](https://ankithsara.vercel.app/)
