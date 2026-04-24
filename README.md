@@ -48,5 +48,6 @@ Deep learning model that distinguishes real images from AI-generated ones.
 ---
 
 ## Let's Connect
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankith-sara)](https://git.io/streak-stats)
 
 [LinkedIn](https://www.linkedin.com/in/ankith-kumar-sara-958ab026a) · [Email](mailto:ankithkumarsara@gmail.com) · [Portfolio](https://ankithsara.vercel.app/)
