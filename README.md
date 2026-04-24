@@ -80,7 +80,7 @@ Applied **computer vision** for security authentication.
 ## Education
 
 **B.Tech — Computer Science & Engineering**  
-Currently pursuing · Hyderabad, India
+Woxsen University · Hyderabad, India
 
 ---
 
