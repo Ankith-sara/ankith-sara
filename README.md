@@ -86,7 +86,7 @@ Currently pursuing · Hyderabad, India
 
 ## GitHub Strack
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankith-sara)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankith-sara&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
 
